@@ -1,0 +1,45 @@
+"*":
+  "exception-reporting":
+    userId: "7923466d-a866-c44f-2b23-4a2be52b9a10"
+  "release-notes":
+    viewedVersion: "0.84.0"
+  welcome:
+    showOnStartup: false
+  metrics:
+    userId: "237298c815b0ce644dfbcf30fbab1baa6ad91168"
+  core:
+    ignoredNames: [
+      ".git"
+      ".svn"
+      ".DS_Store"
+    ]
+    disabledPackages: [
+      "minimap"
+      "autocomplete-paths"
+    ]
+    projectHome: "/Users/farthinker/Sites"
+    themes: [
+      "seti-ui"
+      "atom-dark-syntax"
+    ]
+  "vim-mode": {}
+  linter: {}
+  editor:
+    invisibles: {}
+    showInvisibles: true
+    showIndentGuide: true
+  "terminal-status": {}
+  "autocomplete-plus":
+    confirmCompletion: "tab and enter"
+    minimumWordLength: 2
+    maxVisibleSuggestions: 5
+    navigateCompletions: "ctrl-p,ctrl-n"
+    strictMatching: true
+  "merge-conflicts": {}
+  emmet: {}
+".html.ruby.text":
+  editor:
+    showIndentGuide: true
+".erb.html.text":
+  editor:
+    showIndentGuide: true
