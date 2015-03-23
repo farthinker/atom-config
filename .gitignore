@@ -1,6 +1,7 @@
 
 .DS_Store
 .apm/
+.node-gyp/
 storage/
 compile-cache/
 packages/
